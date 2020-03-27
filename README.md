@@ -4,4 +4,4 @@ Cpp Hackerrank : This folder contains all the assigned cpp solution codes of cpp
 
 Image Processing : This folder contains the solutions of assigned the tasks of Image processing.
 
-IP_Address : This file contains the IP Address of my device.
+IP_Address : This file contains the IP Address of my device. (Command : ifconfig/all)
