@@ -9,7 +9,7 @@ im2 = zeros(im.shape)
 
 #applying Gaussian blurring to each colour
 for i in range(3):
-    im2[:,:,i] = filters.gaussian_filter(im[:,:,i],20)
+    im2[:,:,i] = filters.gaussian_filter(im[:,:,i],2)
 
 #conversion to uint8 form
 im2 = uint8(im2)
@@ -18,4 +18,4 @@ im2 = uint8(im2)
 im2 = Image.fromarray(uint8(im2))
 
 #saving the image
-im2.save('Gaussian_coloured(sigma=20).jpg')
+im2.save('Gaussian_coloured(sigma=2).jpg')
