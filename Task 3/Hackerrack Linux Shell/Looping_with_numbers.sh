@@ -1,5 +1,4 @@
-  #!bin/bash
-for i in {1..99..2}
-    do
+for i in {1..50}
+    do 
         echo $i
     done
