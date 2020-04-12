@@ -6,4 +6,6 @@ Image Processing : This folder contains the solutions of assigned tasks of Image
 
 IP_Address : This file contains the IP Address of my device. (Command : ifconfig/all)
 
-Task 3 : This folder contains the solutions of all the assigned tasks.
+Task 3 : This folder contains the solutions of all the assigned tasks of Task 3.
+
+Task 4 : THis folder contains the solutions of the tha assigned tasks of Task 4.
